@@ -6,9 +6,9 @@ RAW implementation of this project is available in:
 - RUST
 - PYTHON
 
-[ ⭐ Link to the Project](https://github.com/kingsmen732/Waveshare_fingerprint_(c))  
+[ ⭐ Link to the Project](https://github.com/kingsmen732/waveshare_fingerprint_-c-)  
 If the link doesn't redirect, use:  
-https://github.com/kingsmen732/Waveshare_fingerprint_(c)
+https://github.com/kingsmen732/waveshare_fingerprint_-c-
 
 ---
 
